@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🖥️  See my portfolio at [portfolio](http://wiktrek.xyz)
 * 🚀  I'm currently working on [wiktrek.xyz](http://wiktrek.xyz), [rust](https://rust.wiktrek.xyz)
-* 🧠  I'm learning Next.js, rust
+* 🧠  I'm learning Next.js, typescript, rust, go
 
 <!-- <a href="https://www.github.com/wiktrek" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wiktrek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
