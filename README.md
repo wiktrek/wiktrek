@@ -1,7 +1,6 @@
 Hi👋 I'm Wiktrek
 ===============================================================================================================================
 
-* 🖥️  See my portfolio at [portfolio](http://wiktrek.xyz)
 * 🚀  I'm currently working on [wiktrek.xyz](http://wiktrek.xyz), [rust](https://rust.wiktrek.xyz)
 * 🧠  I'm learning Next.js, typescript, rust, go
 
