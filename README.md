@@ -2,7 +2,7 @@ Hi👋 I'm Wiktrek
 ===============================================================================================================================
 
 * 🚀  I'm currently working on [wiktrek.xyz](http://wiktrek.xyz), [rust](https://rust.wiktrek.xyz)
-* 🧠  I'm learning Next.js, typescript, rust, go
+* 🧠  I'm learning typescript, rust, zig
 
 <!-- <a href="https://www.github.com/wiktrek" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wiktrek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
