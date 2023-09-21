@@ -1,7 +1,7 @@
 Hi👋 I'm Wiktrek
 ===============================================================================================================================
 
-* 🚀  I'm currently working on [wiktrek.xyz](http://wiktrek.xyz), [rust](https://rust.wiktrek.xyz)
+* 🚀  I'm currently working on [wiktrek.xyz](http://wiktrek.xyz), [rust](https://github.com/wiktrek/rust), [zig](https://github.com/wiktrek/zig)
 * 🧠  I'm learning typescript, rust, zig
 
 <!-- <a href="https://www.github.com/wiktrek" target="_blank" rel="noreferrer"><img
